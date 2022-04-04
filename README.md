@@ -1,8 +1,10 @@
-# change-db-password-scripts
+# Contents
 
 A collection of (interacitve) automation scripts to easily change the DataMiner database passwords.
 
 The repository contains a set of interactive automation scripts to easily update the DataMiner database passwords.
+
+# The Scripts
 
 ## change-cassandra-password-script
 
