@@ -1,6 +1,6 @@
-# change-db-password-script
+# change-db-password-scripts
 
-A collection of automation scripts to easily change the DataMiner database password
+A collection of (interacitve) automation scripts to easily change the DataMiner database passwords.
 
 The repository contains a set of interactive automation scripts to easily update the DataMiner database passwords.
 
