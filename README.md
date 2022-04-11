@@ -22,6 +22,6 @@ To execute the script:
 
 1. Click *Open* to import the Automation Script.
 
-1. The script should now be visible in the Automation app
+1. The script should now be visible in the Automation app.
 
-1. Open the script and click *Execute*
+1. Open the script and click *Execute*.
